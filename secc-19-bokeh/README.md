@@ -10,6 +10,7 @@ Bokeh es una librería de Python para crear visualizaciones interactivas en el n
 - [ ] Exportar visualizaciones a HTML
 
 ## Ejercicios realizados
+🖲️ Quiero aclarar que muchos de los comentarios los haré en inglés, mezclados con español, por una cuestión de que quiero aprender a dominar el inglés.
 _(Actualizaré conforme vaya practicando)_
 
 ## Recursos
